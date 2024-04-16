@@ -1,0 +1,33 @@
+
+-----
+Test: tests/test_3_editing_profile.py::test_editing_profile (call)
+Start time: 2024-04-16 10:09:56.410754
+Start name method: authorization
+
+End time: 2024-04-16 10:10:06.152120
+End name method: authorization
+URL: https://joomla.devcolibri.com/
+
+-----
+
+-----
+Test: tests/test_3_editing_profile.py::test_editing_profile (call)
+Start time: 2024-04-16 10:10:06.152120
+Start name method: edit_profile_section
+
+End time: 2024-04-16 10:10:07.275291
+End name method: edit_profile_section
+URL: https://joomla.devcolibri.com/edit-profile
+
+-----
+
+-----
+Test: tests/test_3_editing_profile.py::test_editing_profile (call)
+Start time: 2024-04-16 10:10:07.275291
+Start name method: edit_profile
+
+End time: 2024-04-16 10:10:16.854243
+End name method: edit_profile
+URL: https://joomla.devcolibri.com/edit-profile
+
+-----

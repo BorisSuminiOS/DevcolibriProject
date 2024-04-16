@@ -1,0 +1,10 @@
+URL: https://joomla.devcolibri.com/login?view=registration
+Input user name
+Input login
+Input password
+Input confirmation password
+Input email
+Click button registration
+Verification is successful: 'Ваша учетная запись создана. Теперь вы можете войти в систему, используя логин и пароль, введенные при регистрации.'
+Screenshot is successful: C:\Users\ноутбук\PycharmProjects\DevcolibriProject\screen\registration_2024-04-16_10-06-32.png
+---------------------------------------------------------

@@ -1,0 +1,165 @@
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_1 (call)
+Start time: 2024-04-16 10:06:44.842802
+Start name method: the_courses_section
+
+End time: 2024-04-16 10:06:57.081848
+End name method: the_courses_section
+URL: https://joomla.devcolibri.com/courses
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_1 (call)
+Start time: 2024-04-16 10:06:57.082411
+Start name method: choose_course_java1_java2
+
+End time: 2024-04-16 10:07:05.517047
+End name method: choose_course_java1_java2
+URL: https://joomla.devcolibri.com/courses/java1-java2
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_1 (call)
+Start time: 2024-04-16 10:07:05.520022
+Start name method: making_order_java1_java2
+
+End time: 2024-04-16 10:07:18.103596
+End name method: making_order_java1_java2
+URL: https://auth.robokassa.ru/Merchant/Index.aspx?MerchantLogin=devcolibri.com&OutSum=2749&InvId=242&Description=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20%E2%84%96002420416&SignatureValue=77ebe4b02b4dfc8d2ec568db58baf85d&Email=test_user2024@mail.ru&IsTest=1&Encoding=utf-8
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_1 (call)
+Start time: 2024-04-16 10:07:18.103596
+Start name method: payment_course_java1_java2
+
+End time: 2024-04-16 10:07:28.880929
+End name method: payment_course_java1_java2
+URL: https://joomla.devcolibri.com/login?return=aHR0cHM6Ly9qb29tbGEuZGV2Y29saWJyaS5jb20vY29tcG9uZW50L3JhZGljYWxtYXJ0X2V4cHJlc3MvZG9uZS8wMDI0MjA0MTY/cGFpZD1zdWNjZXNzJkl0ZW1pZD0xMDE=
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_check_purchased_course_1 (call)
+Start time: 2024-04-16 10:07:34.475614
+Start name method: authorization
+
+End time: 2024-04-16 10:07:44.064090
+End name method: authorization
+URL: https://joomla.devcolibri.com/
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_check_purchased_course_1 (call)
+Start time: 2024-04-16 10:07:44.064090
+Start name method: my_courses_section
+
+End time: 2024-04-16 10:07:47.072318
+End name method: my_courses_section
+URL: https://moodle.devcolibri.com/my/courses.php
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_check_purchased_course_1 (call)
+Start time: 2024-04-16 10:07:47.073365
+Start name method: course_availability_1
+
+End time: 2024-04-16 10:07:56.762541
+End name method: course_availability_1
+URL: https://moodle.devcolibri.com/my/courses.php
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_2 (call)
+Start time: 2024-04-16 10:08:02.162846
+Start name method: authorization
+
+End time: 2024-04-16 10:08:13.420947
+End name method: authorization
+URL: https://joomla.devcolibri.com/
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_2 (call)
+Start time: 2024-04-16 10:08:13.421451
+Start name method: the_courses_section_2
+
+End time: 2024-04-16 10:08:14.282397
+End name method: the_courses_section_2
+URL: https://joomla.devcolibri.com/courses
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_2 (call)
+Start time: 2024-04-16 10:08:14.283111
+Start name method: choose_course_android1_java1
+
+End time: 2024-04-16 10:08:19.445852
+End name method: choose_course_android1_java1
+URL: https://joomla.devcolibri.com/courses/android1-java1
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_2 (call)
+Start time: 2024-04-16 10:08:19.446862
+Start name method: making_order_android1_java1
+
+End time: 2024-04-16 10:08:29.853707
+End name method: making_order_android1_java1
+URL: https://auth.robokassa.ru/Merchant/Index.aspx?MerchantLogin=devcolibri.com&OutSum=3374&InvId=243&Description=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20%E2%84%96002430416&SignatureValue=61084255a9629149965d5c14eea2e7c2&Email=test_user2024@mail.ru&IsTest=1&Encoding=utf-8
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_buy_course_2 (call)
+Start time: 2024-04-16 10:08:29.853707
+Start name method: payment_course_android1_java1
+
+End time: 2024-04-16 10:08:39.773790
+End name method: payment_course_android1_java1
+URL: https://joomla.devcolibri.com/spasibo-za-zakaz/002430416?paid=success
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_check_purchased_course_2 (call)
+Start time: 2024-04-16 10:08:45.260772
+Start name method: authorization
+
+End time: 2024-04-16 10:09:00.097731
+End name method: authorization
+URL: https://joomla.devcolibri.com/
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_check_purchased_course_2 (call)
+Start time: 2024-04-16 10:09:00.097731
+Start name method: my_courses_section
+
+End time: 2024-04-16 10:09:03.854328
+End name method: my_courses_section
+URL: https://moodle.devcolibri.com/my/courses.php
+
+-----
+
+-----
+Test: tests/test_2_buy_courses.py::test_check_purchased_course_2 (call)
+Start time: 2024-04-16 10:09:03.855213
+Start name method: course_availability_2
+
+End time: 2024-04-16 10:09:13.551302
+End name method: course_availability_2
+URL: https://moodle.devcolibri.com/my/courses.php
+
+-----

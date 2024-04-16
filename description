@@ -1,0 +1,11 @@
+Версия python 3.12.2
+
+1. Для запуска тестов, перейдите в директорию tests
+Пример:  cd  C:\Users\ноутбук\PycharmProjects\DevcolibriProject\tests
+
+2. Импортируйте все необходимые библиотеки
+Команда: pip install -r requirements.txt
+
+3. Отчет тестирования - http://192.168.85.88:52171/index.html#suites/e387fa4bb326b54ea8c19c2822aba374
+
+4. Тест-кейсы - https://docs.google.com/spreadsheets/d/1aQlONOEMl2WMW4pTGPkKINd7h4Xc0F_P3SMYLf8hZrY/edit#gid=0

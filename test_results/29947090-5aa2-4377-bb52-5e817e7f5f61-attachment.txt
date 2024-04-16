@@ -1,0 +1,13 @@
+URL: https://joomla.devcolibri.com/login
+Input login
+Input password
+Click button enter
+Verification is successful: 'Android для разработчиков'
+---------------------------------------------------------
+URL: https://joomla.devcolibri.com/
+Click button my courses
+---------------------------------------------------------
+URL: https://moodle.devcolibri.com/my/courses.php
+Verification is successful: 'Java c нуля + Java продвинутый уровень'
+Screenshot is successful: C:\Users\ноутбук\PycharmProjects\DevcolibriProject\screen\new_course_1_2024-04-16_10-07-54.png
+---------------------------------------------------------

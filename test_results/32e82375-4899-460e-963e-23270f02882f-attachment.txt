@@ -1,0 +1,28 @@
+URL: https://joomla.devcolibri.com/
+Click button courses
+Verification is successful: 'Курсы'
+---------------------------------------------------------
+URL: https://joomla.devcolibri.com/courses
+Scroll, horizontal: 0, vertical: 700
+Click button course java1-java2
+Verification is successful: 'Java с нуля до Junior + Подготовка к собеседованию'
+---------------------------------------------------------
+URL: https://joomla.devcolibri.com/courses/java1-java2
+Scroll, horizontal: 0, vertical: 200
+Click button buy
+Input first name
+Input last name
+Input email
+Input phone
+Click button buy
+Verification is successful: 'Оплатить'
+---------------------------------------------------------
+URL: https://auth.robokassa.ru/Merchant/Index.aspx?MerchantLogin=devcolibri.com&OutSum=2749&InvId=242&Description=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20%E2%84%96002420416&SignatureValue=77ebe4b02b4dfc8d2ec568db58baf85d&Email=test_user2024@mail.ru&IsTest=1&Encoding=utf-8
+Input card number
+Input card date
+Input code cvc
+Input card holder
+Click button payment
+Click button success
+Screenshot is successful: C:\Users\ноутбук\PycharmProjects\DevcolibriProject\screen\payment_course_1_2024-04-16_10-07-26.png
+---------------------------------------------------------
